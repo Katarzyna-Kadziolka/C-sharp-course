@@ -5,7 +5,6 @@ namespace CalculatorUnitTest
 {
     public class Tests
     {
-        
 
         [Test]
         public void AddNumbers_FiveTenFifteen_ShouldReturnThirty() {
